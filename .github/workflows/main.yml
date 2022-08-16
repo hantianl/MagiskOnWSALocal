@@ -24,4 +24,4 @@ jobs:
     steps:
       - name: buildWSA
         run: | 
-          C:\htl\gitProgramma\MagiskOnWSALocal\scripts\run.sh
+          C:/htl/gitProgramma/MagiskOnWSALocal/scripts/run.sh
