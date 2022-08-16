@@ -24,5 +24,5 @@ jobs:
     steps:
       - name: buildWSA
         run: | 
-          chmod -x scripts/run.sh
+          chmod +x scripts/run.sh
           scripts/run.sh
