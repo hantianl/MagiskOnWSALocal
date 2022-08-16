@@ -22,5 +22,5 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Run a multi-line script
-        run: MagiskOnWSALocal/scripts/run.sh
+      - name: buildWSA
+        run: scripts/run.sh
